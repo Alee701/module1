@@ -1,0 +1,69 @@
+
+
+.Auto column layout
+if you can't calculate or divide grid, div so you can apply this
+
+eg: col-lg, col-md
+
+.row column classes
+"it means define what no of column we need in a row"
+
+row-cols-#NUM or row-cols-lg-#NUM 
+
+
+
+.gutter class
+-g
+gx means pading left to right
+gy means margin top to bottom
+
+
+.Text related class
+
+/ text-align
+text-start, text-center, text-end
+
+/ text-break
+means break word
+
+/ Text transform
+text-uppercase, text-captilize, text-lowercase
+
+/ Font size
+fs-1 = 2.5rem = 40px
+fs-2 =  2rem  = 32px
+fs-3 =1.75rem = 28px
+fs-4 = 1.5rem = 24px
+fs-5 =  1rem  = 16px
+
+/ Font weight and italics
+fw-bold, fw-bolder, fw-boldest, fw-lighter, fw-light, fw-normal, fw-italic
+
+
+
+
+4.margin and padding class
+
+by default margin and padding is 16px=1rem
+
+•m - for classes that set margin
+•p - for classes that set padding
+
+t- for classes that set margin-top or padding-top
+b- for classes that set margin-bottom or padding-bottom
+s- (start) for classes that set margin-left or padding-left in LTR, margin-right or padding-right in RTL
+e - (end) for classes that set margin-right or padding-right in LTR, margin-left or padding-left in RTL
+
+x - for classes that set both *-left and *-right
+y - for classes that set both *-top and *-bottom
+
+if you need to set from both 4 sides then use only "p" or "m"
+
+size:
+p-1 = .25rem = 4px
+p-2 = .5rem  = 8px
+p-3 =  1rem  = 16px
+p-4 = 1.5rem = 24px
+p-5 =  3rem  = 48px
+
+
